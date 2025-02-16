@@ -7,8 +7,7 @@
 <body>
     <h1>Welcome to Zeta Calculator</h1>
     <p>The funniest calculator on the web! Check it out at <a href="https://zetacalculator.com" target="_blank">zetacalculator.com</a></p>
-    <script src="script.js"></script>
-</body>
+ </body>
 </html>
 
 // README.md
