@@ -11,20 +11,6 @@
 </body>
 </html>
 
-// style.css
-body {
-    font-family: Arial, sans-serif;
-    text-align: center;
-    padding: 20px;
-}
-
-h1 {
-    color: #ff6600;
-}
-
-// script.js
-console.log("Welcome to Zeta Calculator - The Funniest Calculator!");
-
 // README.md
 # Zeta Calculator - The Funniest Calculator
 
